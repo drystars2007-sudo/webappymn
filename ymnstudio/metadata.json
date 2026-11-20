@@ -1,0 +1,5 @@
+{
+  "name": "YmnTube",
+  "description": "Privacy-respecting YouTube streaming client with subscriptions, local playlists, watch history, download queue, and customizable themes.",
+  "requestFramePermissions": []
+}
